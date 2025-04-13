@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "flxewLhFz6+GidQo7IjtS0wpAW9GiadUHtaIaCSw1tN0v6+xXXZx4DbikhY8rfMMPtoaMzlz+rNPMJFL/CZ/eQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emery\\OneDrive\\Documents\\GitHub\\euphoryx-core\\euphoryx.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emery\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\emery\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.2\\microsoft.netframework.referenceassemblies.net472.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

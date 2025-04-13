@@ -1,0 +1,74 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net472</TargetFramework>
+    <AssemblyName>EuphoryxCore</AssemblyName>
+    <RootNamespace>tech.polyeons.euphoryx</RootNamespace>
+    <Description>Schedule I Modding Framework</Description>
+    <Version>1.0.0</Version>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <BepInExPath>lib\BepInEx\core</BepInExPath>
+    <GamePath>lib\gameReferences</GamePath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="0Harmony">
+      <HintPath>$(BepInExPath)\0Harmony.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="BepInEx">
+      <HintPath>$(BepInExPath)\BepInEx.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine">
+      <HintPath>$(GamePath)\UnityEngine.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>$(GamePath)\UnityEngine.CoreModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.InputLegacyModule">
+      <HintPath>$(GamePath)\UnityEngine.InputLegacyModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>$(GamePath)\UnityEngine.UI.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.SceneManagementModule">
+      <HintPath>$(GamePath)\UnityEngine.SceneManagementModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro">
+      <HintPath>$(GamePath)\Unity.TextMeshPro.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro.Editor">
+      <HintPath>$(GamePath)\Unity.TextMeshPro.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Assembly-CSharp">
+      <HintPath>$(GamePath)\Assembly-CSharp.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="core\" />
+    <Folder Include="data\" />
+    <Folder Include="assets\" />
+    <Folder Include="interop\" />
+    <Folder Include="mods\" />
+    <Folder Include="api\" />
+    <Folder Include="utils\" />
+    <Folder Include="ui\" />
+    <Folder Include="input\" />
+    <Folder Include="doc\" />
+    <Folder Include="patches\" />
+    <Folder Include="properties\" />
+  </ItemGroup>
+</Project>

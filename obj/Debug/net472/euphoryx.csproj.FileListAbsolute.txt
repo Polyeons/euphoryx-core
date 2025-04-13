@@ -1,0 +1,9 @@
+C:\Users\emery\OneDrive\Documents\GitHub\euphoryx-core\obj\Debug\net472\euphoryx.csproj.AssemblyReference.cache
+C:\Users\emery\OneDrive\Documents\GitHub\euphoryx-core\obj\Debug\net472\euphoryx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emery\OneDrive\Documents\GitHub\euphoryx-core\obj\Debug\net472\euphoryx.AssemblyInfoInputs.cache
+C:\Users\emery\OneDrive\Documents\GitHub\euphoryx-core\obj\Debug\net472\euphoryx.AssemblyInfo.cs
+C:\Users\emery\OneDrive\Documents\GitHub\euphoryx-core\obj\Debug\net472\euphoryx.csproj.CoreCompileInputs.cache
+C:\Users\emery\OneDrive\Documents\GitHub\euphoryx-core\bin\Debug\net472\EuphoryxCore.dll
+C:\Users\emery\OneDrive\Documents\GitHub\euphoryx-core\bin\Debug\net472\EuphoryxCore.pdb
+C:\Users\emery\OneDrive\Documents\GitHub\euphoryx-core\obj\Debug\net472\EuphoryxCore.dll
+C:\Users\emery\OneDrive\Documents\GitHub\euphoryx-core\obj\Debug\net472\EuphoryxCore.pdb

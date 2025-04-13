@@ -1,0 +1,53 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\emery\\OneDrive\\Documents\\GitHub\\euphoryx-core\\euphoryx.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\emery\\OneDrive\\Documents\\GitHub\\euphoryx-core\\euphoryx.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\emery\\OneDrive\\Documents\\GitHub\\euphoryx-core\\euphoryx.csproj",
+        "projectName": "EuphoryxCore",
+        "projectPath": "C:\\Users\\emery\\OneDrive\\Documents\\GitHub\\euphoryx-core\\euphoryx.csproj",
+        "packagesPath": "C:\\Users\\emery\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\emery\\OneDrive\\Documents\\GitHub\\euphoryx-core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\emery\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.2, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.428\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

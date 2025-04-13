@@ -2,4 +2,4 @@
 This will be my attempt at making a modding framework for the game "Schedule I"
 Still much to do starting out, but I do plan to actually work on this heavily.
 
-This is a temporary file tree, still figuring out how on I can execute this properly. (As of making this repository and writing this, I have got no sleep so don't be expecting anything yet if you come accross this searching for mods or something. [10:07am EST. @ 4/12/25])
+Yes, most of the code is has been jump started with AI, I am not saying that I don't have any experience with it, I understand the code pretty well but I have never made a mod for this game since it has just came out. I will be utilizing tools like UnityExplorer and dnSpy to see how this game functions more in-depthly. Heavy re-work is planned, atm my hands are really tied up and I have to focus on other things. [8:34am @ 4/13/25]
