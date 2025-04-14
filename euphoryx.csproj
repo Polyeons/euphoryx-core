@@ -39,6 +39,10 @@
       <HintPath>$(GamePath)\UnityEngine.UI.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="UnityEngine.UIModule">
+      <HintPath>$(GamePath)\UnityEngine.UIModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="UnityEngine.SceneManagementModule">
       <HintPath>$(GamePath)\UnityEngine.SceneManagementModule.dll</HintPath>
       <Private>False</Private>
