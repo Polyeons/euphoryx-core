@@ -73,6 +73,5 @@
     <Folder Include="input\" />
     <Folder Include="doc\" />
     <Folder Include="patches\" />
-    <Folder Include="properties\" />
   </ItemGroup>
 </Project>
