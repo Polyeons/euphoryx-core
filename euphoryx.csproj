@@ -11,7 +11,8 @@
 
   <PropertyGroup>
     <BepInExPath>lib\BepInEx\core</BepInExPath>
-    <GamePath>lib\gameReferences</GamePath>
+    <GamePath></GamePath>
+    <GameReferencePath>lib\gameReferences</GameReferencePath>
   </PropertyGroup>
 
   <ItemGroup>
@@ -62,16 +63,16 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="api\" />
+    <Folder Include="assets\" />
     <Folder Include="core\" />
     <Folder Include="data\" />
-    <Folder Include="assets\" />
+    <Folder Include="doc\" />
+    <Folder Include="input\" />
     <Folder Include="interop\" />
     <Folder Include="mods\" />
-    <Folder Include="api\" />
-    <Folder Include="utils\" />
-    <Folder Include="ui\" />
-    <Folder Include="input\" />
-    <Folder Include="doc\" />
     <Folder Include="patches\" />
+    <Folder Include="ui\" />
+    <Folder Include="utils\" />
   </ItemGroup>
 </Project>
