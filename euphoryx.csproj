@@ -4,7 +4,7 @@
     <AssemblyName>EuphoryxCore</AssemblyName>
     <RootNamespace>tech.polyeons.euphoryx</RootNamespace>
     <Description>Schedule I Modding Framework</Description>
-    <Version>1.0.0</Version>
+    <Version>0.0.2</Version>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <LangVersion>latest</LangVersion>
   </PropertyGroup>
