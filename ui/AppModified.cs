@@ -1,1 +1,1 @@
-using UnityEngine;
+using UnityEngine; // rename file to AppletTemplate or something similar
